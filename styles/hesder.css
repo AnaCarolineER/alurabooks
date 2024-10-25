@@ -59,3 +59,17 @@
 }
 
 @media screen (min-width:1024px) {}
+
+.container_titulo,
+.container__titulo--negrito{
+    font-family: var(--font-secundario);
+    font-size: 30px;
+    }
+
+.container__titulo{
+    /* font-weight: 400;
+
+}
+.conteiner__titulo--negrito{
+font-weight: 700;
+}
